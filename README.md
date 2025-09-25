@@ -15,3 +15,4 @@
 ## CS
 
 - [Ch1. 컴퓨터 구조 시작하기](https://www.notion.so/billihazero/Ch1-277f04464c8e80d486a0ff85fdb49249?source=copy_link)
+- [Ch2. 데이터](https://www.notion.so/billihazero/Ch2-279f04464c8e80369159f797394b8109?source=copy_link)

@@ -23,3 +23,4 @@
 ## Algorithm
 
 - [Queue & Stack](https://www.notion.so/billihazero/294f04464c8e804e846ed32d8431a43b?v=22bf04464c8e802abbb3000cbf3f0fe5&source=copy_link)
+- [Hash Table](https://www.notion.so/billihazero/295f04464c8e80ecbe45d33ebcb01861?source=copy_link)

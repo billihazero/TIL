@@ -24,3 +24,10 @@
 
 - [Queue & Stack](https://www.notion.so/billihazero/294f04464c8e804e846ed32d8431a43b?v=22bf04464c8e802abbb3000cbf3f0fe5&source=copy_link)
 - [Hash Table](https://www.notion.so/billihazero/295f04464c8e80ecbe45d33ebcb01861?source=copy_link)
+
+<br>
+
+## DATA STRUCTURE
+
+- [자료구조와 알고리즘](https://www.notion.so/billihazero/1-2-2cbf04464c8e806a924bf85275a7959c?source=copy_link)
+- [알고리즘 시간복잡도](https://www.notion.so/billihazero/3-5-2cdf04464c8e80e3b7ccf94a1ebcb9e9?source=copy_link)

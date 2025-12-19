@@ -31,3 +31,4 @@
 
 - [자료구조와 알고리즘](https://www.notion.so/billihazero/1-2-2cbf04464c8e806a924bf85275a7959c?source=copy_link)
 - [알고리즘 시간복잡도](https://www.notion.so/billihazero/3-5-2cdf04464c8e80e3b7ccf94a1ebcb9e9?source=copy_link)
+- [순차적 자료구조](https://www.notion.so/billihazero/6-2cef04464c8e809d9623e5bd166d5d99?source=copy_link)
